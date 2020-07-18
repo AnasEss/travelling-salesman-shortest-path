@@ -19,7 +19,7 @@ In general, a simulated annealing algorithm can be described as follows.
 ---
 **Simulated annealing**
 
-Set $x_0 \in E$, $T_0  > 0$. 
+Set <a href="https://www.codecogs.com/eqnedit.php?latex=x_0&space;\in&space;E" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_0&space;\in&space;E" title="x_0 \in E" /></a>, <a href="https://www.codecogs.com/eqnedit.php?latex=T_0&space;>&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T_0&space;>&space;0" title="T_0 > 0" /></a>. 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=n&space;\leftarrow&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n&space;\leftarrow&space;0" title="n \leftarrow 0" /></a>
 
