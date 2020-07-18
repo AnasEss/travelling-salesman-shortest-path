@@ -6,7 +6,7 @@ Centrale Lille | [Anas ESSOUNAINI](https://www.linkedin.com/in/anas-essounaini-b
 
 - [Description](#about)
 - [Repository structure](#getting_started)
-- [Authors](#usage)
+- [Contact](#contact)
 
 
 ## 🧐 Description <a name = "about"></a>
@@ -39,7 +39,7 @@ Return <a href="https://www.codecogs.com/eqnedit.php?latex=x_N" target="_blank">
 
 > *Note*: in practice, the transition kernel <a href="https://www.codecogs.com/eqnedit.php?latex=Q" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Q" title="Q" /></a>, the neighborhood of the current point <a href="https://www.codecogs.com/eqnedit.php?latex=x_n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_n" title="x_n" /></a> needs to be defined by the user, depending on the problem of interest. The definition of the other elements will be specified later for the *traveling salesman* problem.
 
-## 🎥 Repository structure <a name = "getting_started"></a>
+## 🔬 Repository structure <a name = "getting_started"></a>
 
 This repository consists in several directories with specific purposes:
 
@@ -50,7 +50,7 @@ This repository consists in several directories with specific purposes:
   ```
 - `main.py`: test of `travelling_salesman_pkg` Library to determine the __shortest path between 16 moroccan cities__.
 
-***
+## ✉️ Contact <a name = "contact"></a>
 For any information, feedback or questions, please [contact us][anas-email]
 
 
