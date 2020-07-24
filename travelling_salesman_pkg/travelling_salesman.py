@@ -41,7 +41,7 @@ class Simulation(abc.ABC):
         x0 = self.initial_config()
         x, n, T = x0, 1, T0
         f_x_n = []
-        print(r'Begin travelling salesman algorithm : --------------------------------------------', end='', sep='')
+        print(r'Begin travelling salesman algorithm : ------------------------------------------', end='', sep='')
         while n < N:
             y = self.draw_neighbour(x)
             u = np.random.uniform(0, 1)
