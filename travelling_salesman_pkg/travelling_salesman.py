@@ -165,6 +165,8 @@ class TravelingSalesman(Simulation):
 
         labels, names = list(dict_.keys()),  np.array(list(dict_.values()))
 
+        n = len(dict_)
+
         # final result
         print("\n \n#############################################################################################################")
         print("Optimal path is : ", names[trajectory])
@@ -172,7 +174,7 @@ class TravelingSalesman(Simulation):
         print("Total distance to come back to departure point is  : ",
               self.function(trajectory))
         print("------------------------------------------------------------------------------------------------------------------")
-        a, b = trajectory[15], trajectory[16]
+        a, b = trajectory[n-1], trajectory[n]
         print(f"Total distance to pass through the {len(names)} points is  : ", self.function(
             trajectory)-self.distance(a, b))
         print("##################################################################################################################")

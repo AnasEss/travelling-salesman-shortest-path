@@ -77,6 +77,8 @@ def main():
     def distance(x, y):
         return distances[x, y]
 
+    
+
     # Travelling salesman implementaion
     simulation = TravelingSalesman(cities, distance)
     simulation.print_result(n_iter, T0, d)
