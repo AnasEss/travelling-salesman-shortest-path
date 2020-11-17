@@ -1,3 +1,15 @@
+##################################################################################
+#                            Author: Anas ESSOUNAINI                             #
+#                              File Name: setup.py                               #
+#                     Creation Date: July 18, 2020 09:51 PM                      #
+#                    Last Updated: November 17, 2020 03:05 AM                    #
+#                            Source Language: python                             #
+#  Repository: https://github.com/AnasEss/travelling-salesman-shortest-path.git  #
+#                                                                                #
+#                            --- Code Description ---                            #
+#                                 package setup                                  #
+##################################################################################
+
 from setuptools import setup
 
 

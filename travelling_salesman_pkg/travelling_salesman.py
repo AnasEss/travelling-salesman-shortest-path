@@ -1,3 +1,15 @@
+##################################################################################
+#                            Author: Anas ESSOUNAINI                             #
+#                       File Name: travelling_salesman.py                        #
+#                     Creation Date: July 18, 2020 09:41 PM                      #
+#                    Last Updated: November 17, 2020 03:06 AM                    #
+#                            Source Language: python                             #
+#  Repository: https://github.com/AnasEss/travelling-salesman-shortest-path.git  #
+#                                                                                #
+#                            --- Code Description ---                            #
+#                         simulated annealing algorithm                          #
+##################################################################################
+
 # packages
 import numpy as np
 import math
